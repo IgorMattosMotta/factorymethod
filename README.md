@@ -1,1 +1,1 @@
-# factorymethod
+# factorymethod para envio de mensagem
